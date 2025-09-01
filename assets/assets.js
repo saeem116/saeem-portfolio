@@ -96,10 +96,10 @@ export const workData = [
         link: 'https://react-animation1-project.vercel.app/'
     },
     {
-        title: 'Portfolio Website',
-        description: 'Web Design',
+        title: 'AI Resume Analyser',
+        description: 'AI Development',
         bgImage: '/work-4.png',
-        link: ''
+        link: 'https://hs-hiresense.vercel.app/'
     },
 ]
 

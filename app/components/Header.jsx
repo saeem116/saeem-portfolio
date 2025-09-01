@@ -28,7 +28,7 @@ function Header() {
         transition={{ duration: 0.6, delay: 0.5 }}
         className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo"
       >
-        Frontend web developer based in Bangladesh
+        Mern stack web developer based in Bangladesh
       </motion.h1>
 
       <motion.p
