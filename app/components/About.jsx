@@ -42,12 +42,11 @@ const About = ({ isDarkMode }) => {
           className="order-2 lg:order-1 flex-1"
         >
           <p className="mb-10 max-w-2xl font-Ovo">
-            During my freelance journey, I've collaborated with various small
-            businesses and startups, transforming their visions into digital
-            realities. With a Bachelor of Science in Computer Science from
-            National University, Bangladesh, and a foundation in science from
-            Chattogram Cantonment Public College, my technical foundation is
-            both broad and deep.
+            During my freelance journey, I’ve built 10+ responsive websites for
+            startups and small businesses, helping them reach more customers. I
+            create full-stack MERN applications that are fast, scalable, and
+            reliable. Using tools like React.js and Three.js, I make sites
+            interactive and engaging, boosting user activity by 30%.
           </p>
 
           <motion.ul
