@@ -37,7 +37,7 @@ function Header() {
         transition={{ duration: 0.8, delay: 0.5 }}
         className="max-w-2xl mx-auto font-Ovo"
       >
-        • I’m a MERN stack developer with experience creating full-stack
+        I’m a MERN stack developer with experience creating full-stack
         applications and responsive websites. My main tools are
         <b> React.js, Next.js, Node.js, and MongoDB,</b> and I focus on building
         clean, scalable, and user-friendly solutions. I’ve worked with teams
